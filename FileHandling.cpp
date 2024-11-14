@@ -8,7 +8,8 @@ void FileDataReader();
 string DataReader;
 string Name;
 string PhoneNumber;
-	
+
+//this is the global constant variable
 const string FILENAME = "Hammad.txt";
  	
 int main()
